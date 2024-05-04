@@ -1,6 +1,9 @@
 # Disaster-Response-Pipeline
 
 ### Instructions:
+This project is a component of the Udacity Data Scientist Nanodegree. Its objective is to construct a Natural Language Processing (NLP) model capable of categorizing messages dispatched during disaster situations. The model is trained on a dataset comprising authentic messages transmitted during past disaster occurrences. Subsequently, the model is deployed to classify incoming messages during similar events.
+
+
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
